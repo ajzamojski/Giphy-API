@@ -1,0 +1,48 @@
+body {
+	background-image: url("background.png");
+	
+}
+
+h1 {
+	color: white;
+}
+
+.page-header {
+	padding: 0px 25px;
+	text-align: center;
+}
+
+img {
+	cursor: pointer;
+}
+
+.mainContent {
+	margin-bottom: 50px;
+	justify-content: center;
+	display: flex;
+}
+
+.imgContainter {
+	float: left;
+	margin: 5px 10px;
+}
+
+.textContainer {
+	margin: 5px;
+	text-align: center;
+}
+
+.topic {
+	margin: 8px;
+}
+
+#topicButtons {
+	justify-content: center;
+	display: flex;
+}
+#addTopic {
+	margin: 5px auto;
+	justify-content: center;
+	display: flex;
+}
+
