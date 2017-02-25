@@ -1,6 +1,5 @@
 body {
 	background-image: url("background.png");
-	
 }
 
 h1 {
@@ -30,6 +29,7 @@ img {
 .textContainer {
 	margin: 5px;
 	text-align: center;
+	color: white;
 }
 
 .topic {
